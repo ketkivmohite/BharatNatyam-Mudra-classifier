@@ -1,4 +1,4 @@
-# 🩰 Bharatnatyam Mudra Classifier using VGG19
+# Bharatnatyam Mudra Classifier using VGG19
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ketkimohite/BharatNatyam-Mudra-classifier/blob/main/Vgg19_BharatNatyam_Mudra_Classifier.ipynb)
 
@@ -37,6 +37,22 @@ Example output:
 > Confidence: **80.07%**
 
 ---
+
+---
+
+### 📸 Sample Prediction Result
+
+Here’s a visual example of the model predicting a Bharatnatyam one-hand mudra:
+
+<div align="center">
+
+<img src="https://github.com/ketkimohite/BharatNatyam-Mudra-classifier/blob/main/patakha%20prediction%20image%20.png" width="600" style="border-radius:10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);"/>
+
+</div>
+
+✅ **Predicted Mudra:** *Pathaka(1)*  
+🎯 **Confidence:** *80.07%*
+
 
 ### 👩‍💻 Author
 **Ketki Vijay Mohite**  
