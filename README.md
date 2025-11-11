@@ -45,10 +45,9 @@ Example output:
 Here’s a visual example of the model predicting a Bharatnatyam one-hand mudra:
 
 <div align="center">
-
-<img src="https://github.com/ketkimohite/BharatNatyam-Mudra-classifier/blob/main/patakha%20prediction%20image%20.png" width="600" style="border-radius:10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);"/>
-
+<img src="https://raw.githubusercontent.com/ketkimohite/BharatNatyam-Mudra-classifier/main/patakha%20prediction%20image%20.png" width="600"/>
 </div>
+
 
 ✅ **Predicted Mudra:** *Pathaka(1)*  
 🎯 **Confidence:** *80.07%*
