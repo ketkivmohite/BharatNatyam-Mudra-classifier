@@ -45,7 +45,7 @@ Example output:
 Here’s a visual example of the model predicting a Bharatnatyam one-hand mudra:
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ketkimohite/BharatNatyam-Mudra-classifier/main/patakha%20prediction%20image%20.png" width="600"/>
+<img src="https://github.com/ketkivmohite/BharatNatyam-Mudra-classifier/blob/main/patakha%20prediction%20image%20.png" width="600"/>
 </div>
 
 
