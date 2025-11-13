@@ -73,7 +73,7 @@ Supports classification + error detection.
 # 📸 **Sample Prediction (V1)**
 
 <div align="center">
-<img src="https://github.com/ketkimohite/BharatNatyam-Mudra-classifier/blob/main/patakha%20prediction%20image%20.png" width="600"/>
+<img src="https://github.com/ketkivmohite/BharatNatyam-Mudra-classifier/blob/main/patakha%20prediction%20image%20.png" width="600"/>
 </div>
 
 **Predicted Mudra:** *Pathaka(1)*
