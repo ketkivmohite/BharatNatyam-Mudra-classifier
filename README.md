@@ -90,7 +90,7 @@ These results come from **random online images**, proving that the V2 model gene
 ### 🔹 **Shukatundam (1)**
 
 <div align="center">
-<img src="https://github.com/ketkimohite/BharatNatyam-Mudra-classifier/blob/main/shukatunda%20vgg19%20prediction%20(v2).jpeg" width="450"/>
+<img src="https://github.com/ketkivmohite/BharatNatyam-Mudra-classifier/blob/main/shukatunda%20vgg19%20prediction%20(v2).jpeg" width="450"/>
 </div>
 
 **Confidence:** *100%*
